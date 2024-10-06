@@ -8,3 +8,4 @@ chromadb
 sentence-transformers
 deepeval
 plotly
+llm_guard
