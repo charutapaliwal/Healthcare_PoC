@@ -1,0 +1,13 @@
+define user ask off topic
+  "Can you plan itinerary for me for 5 days to Europe?"
+  "What is recipe for banana walnut loaf?"
+  "What is historic medical data of diabetes?"
+  "Where is the great red spot found in solar system?"
+  "plan a 5 day itinerary to japan"
+
+define bot respond off topic
+  "I cannot talk about off topics. Is there anything else that you would like to ask?"
+
+define flow check off topic
+    user check off topic
+    bot respond off topic

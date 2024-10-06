@@ -1,0 +1,9 @@
+streamlit
+openai==1.43.0
+pandas
+faker
+python-dotenv
+transformers
+chromadb
+sentence-transformers
+deepeval

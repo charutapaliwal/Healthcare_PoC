@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Address,SSN,ICD10_Code,Code_Description,Previous_Symptoms,Previous_Diagnosis,Current_Medication,Blood_Pressure,Body_Mass_Index
+bbe243bf-5c8d-421e-9914-6e0c4fc45ed3,Raymond Becker,73,Male,"8893 Jones Knolls Apt. 833
+Port Pamelaton, AZ 92708",623-19-6838,S00-T88,"Injury, poisoning and certain other consequences of external causes","Pain, swelling, and limited mobility",Broken Bone,Pain Relievers,140/95,30
+40b46fae-da6c-468b-9e16-a3ebe9240bab,James Owens,32,Female,"574 James Oval Apt. 640
+East David, MS 84628",835-63-6002,C00-D49,Neoplasms,"Lump in the breast, nipple discharge, and breast pain",Breast Cancer,Tamoxifen,140/95,30
+40f7fac3-0821-43fd-9ddd-8c25b2e054b6,Pam Carson,76,Male,"0492 Flowers Vista
+Brooksmouth, MT 58591",206-03-5071,N00-N99,Diseases of the genitourinary system,"Severe pain, nausea, and vomiting",Kidney Stones,Pain Relievers,140/95,30
+2715b506-8dae-4995-ae80-994041c8e929,Jill Evans,37,Female,"6502 Steven Plain
+Parkerberg, SC 50450",397-08-7193,L00-L99,Diseases of the skin and subcutaneous tissue,"Red, scaly patches, and itching",Psoriasis,Methotrexate,130/90,28
+628d4701-62a6-4b5f-86f4-342a96504cb2,Michael Johnston,19,Female,"USCGC Grant
+FPO AP 91855",434-25-3830,J00-J99,Diseases of the respiratory system,"Shortness of breath, wheezing, and coughing",Chronic Obstructive Pulmonary Disease,Salmeterol,130/90,28
+4a85dea6-18cd-4cd5-8c93-18220659a3b4,David Turner,47,Male,"716 Clayton Lake
+Lake Adrian, MT 09983",612-65-8750,V00-Y99,External causes of morbidity,"Pain, swelling, and limited mobility",Car Accident,Physical Therapy,140/95,30
+38f89878-38a6-4607-8ae4-a86fb16ae305,Alyssa Smith,60,Female,"880 Debra Island
+Lake Brandonfurt, OH 19518",616-63-4374,M00-M99,Diseases of the musculoskeletal system and connective tissue,"Joint pain, swelling, and stiffness",Rheumatoid Arthritis,Methotrexate,130/90,28
+add6f083-bdf4-4202-b4cb-a0eb9d866116,Justin Williams,68,Female,"2857 Fuller Stream
+Katherineberg, AS 43457",365-87-7410,S00-T88,"Injury, poisoning and certain other consequences of external causes","Nausea, vomiting, and abdominal pain",Poisoning,Activated Charcoal,120/80,25
+2a90c47e-5436-4310-9502-284a1b365725,Randy Hernandez,50,Male,"239 Andrew Square
+West Larrymouth, IA 12348",766-86-4964,K00-K93,Diseases of the digestive system,"Abdominal pain, bloating, and changes in bowel movements",Irritable Bowel Syndrome,None,110/70,22
+7c97b3ec-3018-4a96-87a4-c837526f0492,Amanda Miller,81,Male,"303 Stokes Underpass
+Port Angelaville, MN 10803",439-45-8014,M00-M99,Diseases of the musculoskeletal system and connective tissue,"Widespread muscle pain, fatigue, and tender points",Fibromyalgia,Pregabalin,110/70,22
+ea56c1f1-7826-49ee-9d3d-084454548a6d,Julie Gonzalez,34,Female,"86435 Jason Club
+South Morganland, MO 74114",475-93-7444,P00-P96,Certain conditions originating in the perinatal period,"Premature birth, low birth weight, and respiratory distress",Premature Birth,Oxygen Therapy,110/70,20
+deea8597-72fc-49da-889a-48dce659b45f,Richard Williams,20,Male,"PSC 5772, Box 1877
+APO AA 03320",022-39-6810,C00-D49,Neoplasms,"Coughing up blood, chest pain, and difficulty breathing",Lung Cancer,Chemotherapy,150/100,32
+693d0ab8-370a-4cc8-9434-24d6a06e06a2,Christopher Mayer,33,Male,"878 Smith Mountains Apt. 781
+New Lesliehaven, MI 82593",452-25-9870,E00-E89,"Endocrine, nutritional and metabolic diseases","Increased thirst and urination, fatigue, and blurred vision",Diabetes,Metformin,140/95,30
+dee990e7-33e8-4907-83a3-ec805c29e614,Angela Massey,28,Male,"107 Lewis Stravenue Apt. 946
+South Calvinberg, ME 36404",009-98-3305,H00-H59,Diseases of the eye and adnexa,"Blurred vision, eye pain, and sensitivity to light",Glaucoma,Timolol,120/80,22
+8a3536d9-6a1b-4539-942f-c7eea6200e51,Craig Underwood,23,Male,"98032 Anna Light
+East Markstad, WA 13992",017-68-9634,P00-P96,Certain conditions originating in the perinatal period,"Lack of oxygen, brain damage, and developmental delays",Birth Asphyxia,Ventilatory Support,130/90,28
+7d5efae7-3e02-4758-8acb-d06a420fe8ec,Cynthia Livingston,52,Female,"1600 Shaun Underpass
+Rebeccaburgh, ID 26857",617-86-0683,H60-H95,Diseases of the ear and mastoid process,"Ringing in the ears, hearing loss, and ear fullness",Hearing Loss,Hearing Aids,110/70,20
+00051150-9c62-4854-89c7-aa3adb6479da,Mark Clark,63,Female,"9871 Alejandra Terrace Apt. 463
+Davisstad, RI 31933",475-96-8788,V00-Y99,External causes of morbidity,"Pain, swelling, and limited mobility",Car Accident,Physical Therapy,140/95,30
+08695a62-a717-4adf-be91-c2ecdcf46d30,Valerie Johnson,76,Female,"071 Simmons Via
+West Ronaldburgh, MO 67566",550-34-0672,I00-I99,Diseases of the circulatory system,"Shortness of breath, fatigue, and swelling in the legs",Heart Failure,Furosemide,140/95,30
+bd666c89-3870-4c35-8837-2fd1c4f18b17,Kristen Cruz,39,Female,"8570 Elizabeth Turnpike Suite 155
+Justinport, AK 52728",656-02-8524,N00-N99,Diseases of the genitourinary system,"Painful urination, frequent urination, and abdominal pain",Urinary Tract Infection,Ciprofloxacin,130/90,28
+28d43373-abba-43b6-bff6-60097ba7ca21,Jason Garcia,71,Male,"84608 Sandra Dale
+Harveyside, OH 53075",549-24-8957,Z00-Z99,Factors influencing health status and contact with health services,None,Vaccination,Vaccine,120/80,22
+d5d7900b-5398-46a6-9254-85ac5dcf3207,Peter Jones,44,Male,"7071 Bender Mission Apt. 097
+Johnshire, PW 99248",241-27-7134,H60-H95,Diseases of the ear and mastoid process,"Ear pain, fever, and difficulty hearing",Ear Infection,Amoxicillin,120/80,22
+da962e59-73ac-49a2-ac5f-83bba9cab67c,Kimberly Gonzalez,45,Male,"57603 Ortega Well
+Williamton, IN 12689",585-97-8099,N00-N99,Diseases of the genitourinary system,"Painful urination, frequent urination, and abdominal pain",Urinary Tract Infection,Ciprofloxacin,130/90,28
+e8a55b27-4bd7-4469-bf85-ed844ab6a231,Lisa Stewart,29,Male,"844 Diaz Cape Apt. 637
+Port Stephanie, DC 54993",656-18-1834,M00-M99,Diseases of the musculoskeletal system and connective tissue,"Joint pain, stiffness, and limited mobility",Osteoarthritis,Ibuprofen,120/80,25
+762d2a30-f71c-42a1-9ddf-b09f727050b5,Mary Myers,49,Female,"USNS Campos
+FPO AE 99493",184-83-5583,F00-F99,Mental and behavioral disorders,"Feeling sad or empty, loss of interest in activities, and changes in appetite",Depression,Fluoxetine,110/70,20
+54834b1e-1660-46dc-bac9-df32b7643ef3,Devin Medina,29,Male,"407 Alicia Road
+Joelview, CA 66272",362-28-6960,D50-D89,Diseases of the blood and blood-forming organs,"Fatigue, weakness, and pale skin",Thalassemia,Blood Transfusions,120/80,22
+bc6ceb98-9fd1-48e1-bce0-e0da7b387b63,Matthew Warren,43,Female,"3132 Amy River
+Williamsshire, MI 99335",147-55-9108,J00-J99,Diseases of the respiratory system,"Wheezing, coughing, and shortness of breath",Asthma,Albuterol,120/80,22
+80c59222-5376-4871-9459-22e39864bd99,Cynthia Keith,28,Male,"3894 Dakota Stravenue
+Rivasmouth, WV 87099",764-57-7189,H60-H95,Diseases of the ear and mastoid process,"Ear pain, fever, and difficulty hearing",Ear Infection,Amoxicillin,120/80,22
+5288e99a-0452-4e74-ab1e-bf826b7150e3,Danielle Alexander,36,Male,"8861 Johnson Fords Apt. 348
+Fernandezborough, RI 31627",263-29-7642,K00-K93,Diseases of the digestive system,"Diarrhea, abdominal pain, and weight loss",Inflammatory Bowel Disease,Prednisone,130/90,28
+112a1e66-563e-4e41-8ad1-d58280ce6b6c,David Baker,41,Female,"04350 Stafford Ranch
+West Cynthia, CT 41731",527-94-8870,F00-F99,Mental and behavioral disorders,"Feeling anxious or fearful, rapid heartbeat, and sweating",Anxiety,Xanax,120/80,22
+70f8e2b0-8444-4a07-a53b-8a576c71881b,Dustin Richardson,77,Female,"527 Williams Causeway
+Meaganport, GU 25321",557-57-4732,D50-D89,Diseases of the blood and blood-forming organs,"Fatigue, weakness, and pale skin",Thalassemia,Blood Transfusions,120/80,22
+4f267898-2f23-43c2-80b4-5eec27db1b76,Devin Silva,73,Male,"56949 Sandoval Trace Apt. 719
+New Phillipmouth, RI 20042",072-51-3205,I00-I99,Diseases of the circulatory system,"High blood pressure, chest pain, and shortness of breath",Hypertension,Lisinopril,150/100,32
+bcd2ed89-5306-403b-bc31-57604f8f4a39,Maria Ritter,75,Male,"7884 Clarke Plaza Suite 891
+Larryton, VA 12324",176-97-7908,G00-G99,Diseases of the nervous system,"Seizures, confusion, and loss of consciousness",Epilepsy,Phenytoin,130/90,28
+cd0f48aa-20b0-45c9-9d7c-39359699d465,Alyssa Lowe,55,Male,"00916 Russell Summit
+Shannonfort, DC 90296",333-33-8990,J00-J99,Diseases of the respiratory system,"Shortness of breath, wheezing, and coughing",Chronic Obstructive Pulmonary Disease,Salmeterol,130/90,28
+f0bb6dbf-54c2-4287-838f-3d8eb13a4027,Sandra Taylor,20,Female,"193 Margaret Shoal Apt. 109
+Deannaview, OK 31705",383-01-8935,V00-Y99,External causes of morbidity,"Pain, swelling, and limited mobility",Fall,Pain Relievers,130/90,28
+723ca8a0-7871-493a-9d81-90908ba48940,Andre Chase,68,Male,"125 Alexander Lock
+Changfurt, CT 97267",450-17-0686,Z00-Z99,Factors influencing health status and contact with health services,None,Screening,None,130/90,28
+c492c48b-0f1e-4f83-ac90-3cbffeadd41f,Amanda Aguilar,44,Male,"PSC 2673, Box 3011
+APO AP 68859",536-30-4482,J00-J99,Diseases of the respiratory system,"Wheezing, coughing, and shortness of breath",Asthma,Albuterol,120/80,22
+f5194db4-4a65-4d70-8918-01fa156d3054,Joyce Williams,74,Female,"0527 Jason Ranch
+Port Michaelmouth, MD 13605",698-83-1105,M00-M99,Diseases of the musculoskeletal system and connective tissue,"Joint pain, stiffness, and limited mobility",Osteoarthritis,Ibuprofen,120/80,25
+c6f9f774-e7d4-41d2-b968-ddcf58e3073c,Renee Bell,37,Female,"92711 Kimberly Corners Apt. 438
+South Kimberly, RI 51751",385-32-8140,F00-F99,Mental and behavioral disorders,"Feeling anxious or fearful, rapid heartbeat, and sweating",Anxiety,Xanax,120/80,22
+128c0ed4-d3f1-4746-96af-711d671400cf,Lisa Brown,64,Female,"344 Gary Throughway Suite 682
+Bradleyshire, FM 89616",048-34-6947,E00-E89,"Endocrine, nutritional and metabolic diseases","Fatigue, weight gain, and dry skin",Hypothyroidism,Levothyroxine,120/80,25
+35759e3c-c4b4-4cb6-a9f5-f33f8035e754,Michelle Saunders,82,Female,"164 Adams Burgs
+Ortizport, VA 32513",336-95-0458,J00-J99,Diseases of the respiratory system,"Shortness of breath, wheezing, and coughing",Chronic Obstructive Pulmonary Disease,Salmeterol,130/90,28
+7698a8f8-edef-4267-a411-29cc9e24780e,Lisa Rice,42,Male,"9853 Anderson Circle Apt. 107
+Cummingsland, MP 86009",629-34-8223,C00-D49,Neoplasms,"Lump in the breast, nipple discharge, and breast pain",Breast Cancer,Tamoxifen,140/95,30
+ba34c199-0b81-4c8c-8a98-e72212d31fbc,Veronica Campbell,57,Male,"3397 Jacob Port Apt. 910
+South Justinport, MN 40785",681-10-6121,E00-E89,"Endocrine, nutritional and metabolic diseases","Weight loss, rapid heartbeat, and nervousness",Hyperthyroidism,Methimazole,130/90,28
+c85f6e4d-0992-4c3e-9bb0-e2b712ffd49c,Tracy Riggs,62,Male,"7450 Conner Roads
+Jacksonberg, UT 41040",355-93-0469,H60-H95,Diseases of the ear and mastoid process,"Ringing in the ears, hearing loss, and ear fullness",Hearing Loss,Hearing Aids,110/70,20
+6da3d342-dd12-421c-a83e-38c68df1365d,Edward Garcia,55,Male,"6416 Cruz Roads
+New Jeffrey, CO 94798",651-55-9818,J00-J99,Diseases of the respiratory system,"Wheezing, coughing, and shortness of breath",Asthma,Albuterol,120/80,22
+98cde234-4bca-4337-916a-d3d84fe0aa27,Victoria Russell,71,Female,"84057 Brandon Fall Apt. 051
+Huertaview, VA 66210",785-44-7274,G00-G99,Diseases of the nervous system,"Tremors, stiffness, and difficulty with movement",Parkinson's Disease,Levodopa,120/80,25
+dc0085c1-0754-45f9-ac8e-4238d4b6207c,Mary Reed,51,Female,"603 Perkins Trail
+Jordanfort, LA 18502",069-86-9900,G00-G99,Diseases of the nervous system,"Severe headache, sensitivity to light and sound, and nausea",Migraine,Sumatriptan,140/95,30
+b3541186-7b44-40e7-857c-fb6378fc0068,Helen King,57,Female,"222 Stacy Islands
+East Jeffrey, CT 34990",839-72-3396,D50-D89,Diseases of the blood and blood-forming organs,"Fatigue, weakness, and pale skin",Thalassemia,Blood Transfusions,120/80,22
+204a2704-c9b0-46b0-a950-64fc12eaf904,Dorothy Taylor,82,Male,"USS Hansen
+FPO AP 62791",258-34-1292,L00-L99,Diseases of the skin and subcutaneous tissue,"Dry, itchy skin, and small bumps",Eczema,Hydrocortisone,110/70,20
+ece32ee6-1982-4caf-b901-7164555e6f73,Dana Franklin,84,Female,"61023 Ronald Bypass
+New Brianna, HI 33196",871-62-0178,H60-H95,Diseases of the ear and mastoid process,"Ringing in the ears, hearing loss, and ear fullness",Hearing Loss,Hearing Aids,110/70,20
+7bc2d4d9-fc5d-4a05-8fa9-dc481043dd67,Carolyn West,43,Male,"USCGC Ho
+FPO AP 97866",111-27-0896,H00-H59,Diseases of the eye and adnexa,"Blurred vision, blind spots, and distorted vision",Macular Degeneration,None,130/90,28
+4f974c5f-01a4-484b-80ac-f422953a3c39,Gloria Chavez,39,Male,"12776 Davila Parkways Suite 263
+Christopherport, CT 52343",082-60-1616,I00-I99,Diseases of the circulatory system,"High blood pressure, chest pain, and shortness of breath",Hypertension,Lisinopril,150/100,32
+db70e906-b4e0-4488-9755-be45ed941535,Michael Robinson,21,Female,"3735 Perkins Junction Apt. 429
+East Miranda, KY 06496",037-44-5449,P00-P96,Certain conditions originating in the perinatal period,"Premature birth, low birth weight, and respiratory distress",Premature Birth,Oxygen Therapy,110/70,20
+3372a962-d87b-440d-9284-e8d7d7f6cba2,Patrick Clark,21,Male,"32511 Cathy Gateway
+Sheaville, KS 63887",538-33-2007,H00-H59,Diseases of the eye and adnexa,"Blurred vision, eye pain, and sensitivity to light",Glaucoma,Timolol,120/80,22
+dab0eae7-bb35-456f-927b-da97c46de8a6,Anthony Murray,57,Male,"Unit 7032 Box 3815
+DPO AA 75872",508-03-5412,J00-J99,Diseases of the respiratory system,"Coughing, fever, and difficulty breathing",Pneumonia,Azithromycin,140/95,30
+a42f5a9b-d38d-458d-a8d6-afe90d918ca6,Stephen Cohen,85,Female,"001 Rhonda Skyway Suite 478
+New Jamie, KY 18293",469-85-0425,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Spinal cord damage, paralysis, and bowel and bladder problems",Spina Bifida,Surgery,130/90,28
+f3ef58d8-4be6-4743-9d6e-5a7887ddfccd,Dustin Moore,49,Male,"6557 Joshua Common
+Lake Dawnton, DC 67237",357-65-0420,V00-Y99,External causes of morbidity,"Pain, swelling, and limited mobility",Sports Injury,Ice,120/80,25
+68544375-68f2-459c-ae13-21c32a32fff5,Amanda Levy,82,Female,"897 Hoffman Ways Suite 192
+Herrerachester, KS 93329",410-47-7512,L00-L99,Diseases of the skin and subcutaneous tissue,"Dry, itchy skin, and small bumps",Eczema,Hydrocortisone,110/70,20
+57187e18-6b39-4d5b-a4ca-6320e01f8490,Morgan Taylor,45,Female,"839 Parks Walk Apt. 870
+Garciamouth, DC 75463",487-40-4265,E00-E89,"Endocrine, nutritional and metabolic diseases","Weight loss, rapid heartbeat, and nervousness",Hyperthyroidism,Methimazole,130/90,28
+e36d3a07-cb88-4a99-8db6-b197f366f832,Eric Buck,83,Female,"2284 Katelyn Road
+Careyville, OR 42068",046-51-3418,Z00-Z99,Factors influencing health status and contact with health services,None,Screening,None,130/90,28
+7825cee8-a26e-4cc0-a59e-9e3816d3c5b7,Cynthia Ramirez,45,Male,"112 Mike Square Apt. 287
+Kurtbury, PW 30389",237-22-2063,D50-D89,Diseases of the blood and blood-forming organs,"Fatigue, weakness, and pale skin",Anemia,Ferrous Sulfate,110/70,20
+fc315136-8a4a-496f-9cdb-a8b351cd2140,Tracy King,75,Female,"2628 Jennifer Shoals
+Jacksonport, MS 63668",631-80-4490,F00-F99,Mental and behavioral disorders,"Feeling anxious or fearful, rapid heartbeat, and sweating",Anxiety,Xanax,120/80,22
+a8f7e094-e275-4539-a4e4-f2bafd3c014c,Crystal Fernandez,35,Male,"08021 Massey Shores Apt. 227
+Thomasville, HI 94437",636-46-7308,F00-F99,Mental and behavioral disorders,"Feeling sad or empty, loss of interest in activities, and changes in appetite",Depression,Fluoxetine,110/70,20
+3bb27d75-c1b6-4887-b6dc-d3f96d59462a,Thomas Jordan,68,Male,"USNV Lopez
+FPO AE 18702",675-98-8968,P00-P96,Certain conditions originating in the perinatal period,"Premature birth, low birth weight, and respiratory distress",Premature Birth,Oxygen Therapy,110/70,20
+2828756b-f930-4923-b885-3e0049bcee18,Jennifer Brown,22,Female,"13368 Ronald Estate Suite 604
+East Linda, KY 83787",445-28-9727,H00-H59,Diseases of the eye and adnexa,"Blurred vision, eye pain, and sensitivity to light",Glaucoma,Timolol,120/80,22
+5627ea47-c67c-45bb-a974-036beef49ade,Gregory Anderson,53,Female,"93271 Steele Mountains
+Nealside, HI 64899",768-03-1895,J00-J99,Diseases of the respiratory system,"Coughing, fever, and difficulty breathing",Pneumonia,Azithromycin,140/95,30
+a9e07f77-8c50-4337-908c-e9f95cb79c6b,Erik Fuller,25,Male,"PSC 6418, Box 3808
+APO AP 30942",756-31-4103,K00-K93,Diseases of the digestive system,"Diarrhea, abdominal pain, and weight loss",Inflammatory Bowel Disease,Prednisone,130/90,28
+dc7bf0a5-7511-455c-a6f8-ecfbfa322e72,Kayla Colon,80,Female,"28714 Ashley Extension Apt. 425
+Port Georgefort, NE 72633",759-70-5509,I00-I99,Diseases of the circulatory system,"High blood pressure, chest pain, and shortness of breath",Hypertension,Lisinopril,150/100,32
+09a51b94-2061-42bb-926e-49d98162e5c6,John Daniels,55,Male,"092 Kim Junction Suite 634
+East Travis, TX 82252",656-24-2997,G00-G99,Diseases of the nervous system,"Seizures, confusion, and loss of consciousness",Epilepsy,Phenytoin,130/90,28
+59df5531-dea0-4950-9c77-1b4853ac1750,Nicolas Rogers,24,Male,"2638 Christopher Dam
+Kimland, AR 70136",243-16-9433,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Cleft lip, cleft palate, and difficulty feeding",Cleft Palate,Surgery,120/80,25
+f6cce860-5293-43cc-9fcb-54d0912d56e2,Elizabeth Hartman,64,Female,"30591 James Ports
+Stephanieland, CT 02321",251-31-9170,F00-F99,Mental and behavioral disorders,"Flashbacks, nightmares, and avoidance of triggers",PTSD,Sertraline,130/90,28
+a9912f48-ae41-49b3-97cb-092ee672b901,Nicholas Johnson,64,Male,"255 Scott Stream
+Port Corey, UT 39642",051-66-9809,I00-I99,Diseases of the circulatory system,"Irregular heartbeat, palpitations, and shortness of breath",Atrial Fibrillation,Warfarin,130/90,28
+32367074-666d-49fb-a84f-33516c6d4f09,Mario Cuevas,69,Female,"66501 Stacy Terrace Suite 797
+Port Cory, AR 58343",654-34-1699,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Spinal cord damage, paralysis, and bowel and bladder problems",Spina Bifida,Surgery,130/90,28
+adbcfb93-3f08-4776-9eab-a93e7119adeb,Christina Welch,41,Female,"4598 Yu Divide
+Timothyfort, ND 50250",378-01-2775,D50-D89,Diseases of the blood and blood-forming organs,"Fever, fatigue, and weight loss",Leukemia,Chemotherapy,130/90,28
+7c513a09-b338-4507-8298-c1934b3b2f41,Travis Harris,57,Male,"3731 Brandon Place Apt. 504
+Stevenburgh, IA 74492",045-90-7218,H60-H95,Diseases of the ear and mastoid process,"Ringing in the ears, hearing loss, and ear fullness",Hearing Loss,Hearing Aids,110/70,20
+cbce6300-e7c3-4e31-830a-28718bd039d7,Erica Park,52,Female,"26409 Stacy Station
+New Kyle, CO 93586",157-58-5839,J00-J99,Diseases of the respiratory system,"Wheezing, coughing, and shortness of breath",Asthma,Albuterol,120/80,22
+377c56c6-3b52-4258-b4a6-e6cf485ac9ba,Robert Roberts,72,Female,"97223 Danielle Branch Apt. 534
+West Christineshire, TN 36227",256-62-3116,H60-H95,Diseases of the ear and mastoid process,"Ear pain, fever, and difficulty hearing",Ear Infection,Amoxicillin,120/80,22
+3b901bb1-84e5-4f03-82d6-28148ea48a74,Jonathon Miller,59,Male,"38366 Bradley Street Apt. 693
+Andersonville, KS 56058",256-72-8470,Z00-Z99,Factors influencing health status and contact with health services,None,Vaccination,Vaccine,120/80,22
+53fbb9c1-2544-4106-bd9b-a823534076c2,Mrs. Jill Maxwell,77,Female,"146 Vanessa Wall Apt. 127
+East Isaactown, DC 71657",422-40-5764,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Feeling tired, weak, and lacking energy",Fatigue,None,110/70,20
+b17754db-11b0-4107-bc31-b0af65bcd293,Kevin Gutierrez,34,Male,"90707 Jasmine Underpass
+Smithshire, MI 71448",781-64-9998,G00-G99,Diseases of the nervous system,"Severe headache, sensitivity to light and sound, and nausea",Migraine,Sumatriptan,140/95,30
+fe675568-e426-4cf5-8bd2-486c3d19b15e,Lori Stafford,83,Male,"83286 Brenda Road
+North Alicia, VI 00663",531-09-7089,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Feeling lightheaded, dizzy, and disoriented",Dizziness,Meclizine,130/90,28
+2da090a6-bc39-4fdb-87e0-1ef5df23a2f4,Aaron Armstrong,37,Male,"467 Michael Alley Suite 662
+Port Bradleyland, AK 10252",256-11-8125,Z00-Z99,Factors influencing health status and contact with health services,None,Screening,None,130/90,28
+dc63a204-96a1-410b-9ead-c13ce2cdc27f,Kayla Johnson,21,Male,"42028 Jennifer Neck
+Morganberg, IN 45953",518-34-5259,O00-O99,"Pregnancy, childbirth and the puerperium","Morning sickness, fatigue, and mood swings",Pregnancy,Folic Acid,110/70,20
+f9f41026-1c0c-457d-b7b4-dc4f2c8819ec,Beth Anthony,67,Male,"82547 Lisa Glens Apt. 243
+North Tamiland, FL 74343",711-37-9426,S00-T88,"Injury, poisoning and certain other consequences of external causes","Pain, swelling, and limited mobility",Broken Bone,Pain Relievers,140/95,30
+b9d5120d-af67-4899-94b6-8b4215b62216,Shawn Medina,70,Male,"9014 Mcneil Ridge
+Jeffreyfurt, FL 08502",365-61-7383,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Intellectual disability, delayed development, and physical characteristics",Down Syndrome,None,110/70,20
+8579d652-7905-4fbf-ad24-2df86cca9101,Catherine Phillips,80,Male,"0385 Anderson Ridge Apt. 305
+South Jessica, TN 68491",510-95-3159,H00-H59,Diseases of the eye and adnexa,"Blurred vision, eye pain, and sensitivity to light",Glaucoma,Timolol,120/80,22
+43700261-618b-4193-a3d2-af45be375c69,Nancy Pacheco,31,Male,"60201 Hall Way Suite 546
+South Jennifermouth, GU 13015",678-90-9780,S00-T88,"Injury, poisoning and certain other consequences of external causes","Burns, blisters, and scarring",Burns,Silver Sulfadiazine,130/90,28
+73cc3f4f-e342-4b7a-986a-66c39a97428c,Nicole James,47,Male,"8388 Phillips Islands
+Jenniferport, AL 84343",685-74-5608,E00-E89,"Endocrine, nutritional and metabolic diseases","Increased thirst and urination, fatigue, and blurred vision",Diabetes,Metformin,140/95,30
+debef497-034f-43b8-b029-69742452335c,Michael Jones,57,Female,"755 Michael Lakes Apt. 931
+Loristad, SD 54786",116-12-4588,J00-J99,Diseases of the respiratory system,"Shortness of breath, wheezing, and coughing",Chronic Obstructive Pulmonary Disease,Salmeterol,130/90,28
+a027d0fa-45be-4f1f-bc54-fb84262ba355,Tiffany Howard,34,Male,"222 Jonathan Motorway
+Jenniferburgh, KY 65803",417-49-9139,S00-T88,"Injury, poisoning and certain other consequences of external causes","Pain, swelling, and limited mobility",Broken Bone,Pain Relievers,140/95,30
+10a101b1-9b47-4bbc-ba90-cccd31998c05,Logan Liu,25,Female,"005 Ryan Shoal Suite 634
+Mcdonaldville, PW 69700",199-86-5521,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Intellectual disability, delayed development, and physical characteristics",Down Syndrome,None,110/70,20
+7f25522c-f5bb-4d85-bce2-dc9fb81cd93a,Joshua Richardson,18,Female,"302 David Oval
+North Isaiah, NM 07267",746-16-3763,L00-L99,Diseases of the skin and subcutaneous tissue,"Red, scaly patches, and itching",Psoriasis,Methotrexate,130/90,28
+1d5ddddc-4476-4cbb-90ae-0ffc4c3e7ac9,Robert Clark,30,Male,"24084 Paige Harbor Apt. 888
+West Christopherfurt, IA 30166",389-66-8164,S00-T88,"Injury, poisoning and certain other consequences of external causes","Burns, blisters, and scarring",Burns,Silver Sulfadiazine,130/90,28
+58e1b3c7-d3c7-481d-92a1-bd61d3dd9dc5,Rebecca Williamson,77,Female,"9354 Craig Knolls
+Richardsfurt, VA 93324",571-91-9125,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","Feeling tired, weak, and lacking energy",Fatigue,None,110/70,20
+a9f3ea66-010a-4ac6-9cda-9a0aaa38a251,Stephanie Bennett,68,Female,"6074 Lewis Haven Suite 484
+Leemouth, PA 55900",204-49-8555,P00-P96,Certain conditions originating in the perinatal period,"Lack of oxygen, brain damage, and developmental delays",Birth Asphyxia,Ventilatory Support,130/90,28
+2315a446-88a1-47cc-b5f0-c8ac830f215d,Mrs. Andrea Ortega MD,19,Male,"75800 Brown Lodge
+Garzafurt, CO 10329",867-58-3927,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities","Cleft lip, cleft palate, and difficulty feeding",Cleft Palate,Surgery,120/80,25
+5aa12450-10a4-4a96-acc4-de0cdfa26903,Dawn Singleton,81,Female,"102 Jeremy Groves Suite 789
+Melindaton, SC 28319",791-17-2817,N00-N99,Diseases of the genitourinary system,"Difficulty starting urination, weak urine flow, and frequent urination",Prostate Cancer,Surgery,120/80,25
+ad7f366e-ed74-4fdf-b10d-e9dafd01098a,Ronnie Romero,20,Female,"0011 Larry Street Suite 305
+Kellyfort, IL 73732",844-71-2910,E00-E89,"Endocrine, nutritional and metabolic diseases","Weight loss, rapid heartbeat, and nervousness",Hyperthyroidism,Methimazole,130/90,28
+f7456c36-d8e0-41a6-938e-cb5126411686,Tyler Rojas,80,Female,"77862 Donald Fall Apt. 668
+North Mitchell, GU 05357",348-74-6513,P00-P96,Certain conditions originating in the perinatal period,"Low birth weight, small size, and developmental delays",Low Birth Weight,Nutritional Support,120/80,22
+ae060334-c923-4f6f-a467-cb2040ee7bde,Kelly Watson,58,Male,"200 Michael Harbors
+West Williamton, AK 10768",737-62-3380,S00-T88,"Injury, poisoning and certain other consequences of external causes","Nausea, vomiting, and abdominal pain",Poisoning,Activated Charcoal,120/80,25
+75061e01-9cff-488a-83a3-4ad5087e1afe,Michael Guzman,63,Female,"22618 Dean Oval
+South Elizabeth, SD 04462",348-77-4042,O00-O99,"Pregnancy, childbirth and the puerperium","Feeling sad, empty, and hopeless",Postpartum Depression,Fluoxetine,130/90,28
