@@ -13,6 +13,7 @@ from red_team.red_team_integration import HealthcareRedTeam
 from data.vectorize_data import VectorizeData
 #from guardrails.guardrails_integration  import generate_diagnosis
 from guardrails.guardrails_implementation import ImplementGuardrails
+from risk_assessment.risk_questionnaire import risk_questionnaire
 
 warnings.filterwarnings("ignore",category=Warning)
 
@@ -173,7 +174,7 @@ try:
 
         with sub_tab3:
             st.write("Risk Questionnaire Component")
-            # Implement risk questionnaire functionalities
+            risk_questionnaire()
 except Exception as e:
     print(f'Exception occured on streamlit: {str(e)}')
 finally:

@@ -7,3 +7,4 @@ transformers
 chromadb
 sentence-transformers
 deepeval
+plotly

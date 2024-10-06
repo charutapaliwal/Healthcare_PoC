@@ -9,7 +9,7 @@ from llm_guard.output_scanners import NoRefusal, Relevance, Sensitive
 load_dotenv()
 openai.api_key=os.getenv("OPENAI_API_KEY")
 
-INPUT_SCANNERS = [Toxicity(), Gibberish(threshold=0.99), Sentiment(),BanTopics(topics=["violence"])]
+INPUT_SCANNERS = [Toxicity(), Gibberish(threshold=0.99), Sentiment(threshold = -0.5),BanTopics(topics=["violence"])]
 OUTPUT_SCANNERS = [Relevance(), Sensitive(entity_types=['EMAIL_ADDRESS','US_SSN','US_SSN_RE','ADDRESS','PHONE_NUMBER','EMAIL_ADDRESS_RE'])]
 
 class ImplementGuardrails:
